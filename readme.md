@@ -9,14 +9,12 @@
 
 ## マニュアルの見かた
 
-講師の指示に従い、「**[LabManual](https://github.com/ctct-edu/az-104-labS/tree/main/LabManual)**」のフォルダへ移動してください。
+講師の指示に従い、「**[LabManual](https://github.com/ctct-edu/pl-300-lab/tree/main/LabManual)**」のフォルダへ移動してください。
 
 フォルダ内に各演習のラボマニュアルが掲載されています。
 
 ラボマニュアルに従って演習を実施してください。
 
-
-
 ## 演習の始め方
 
-まず初めに「[Preparation](https://github.com/ctct-edu/az-104-labS/blob/main/LabManual/Preparation.md)」を参照し、演習環境の準備を開始してください。
+まず初めに「[演習環境セットアップ](https://github.com/ctct-edu/pl-300-lab/blob/main/LabManual/%E6%BC%94%E7%BF%92%E7%92%B0%E5%A2%83%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97.md)」を参照し、演習環境の準備を開始してください。

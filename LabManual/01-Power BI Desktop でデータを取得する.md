@@ -38,6 +38,7 @@ lab:
 1. **[開く]** ウィンドウで、**D:\PL300\Labs\01-prepare-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
+    ※ファイルを開く際にメールアドレスが求められた場合は、ラボ画面右側の"リソース"タブに記載の"Administrative Username"および"Administrative Password"を使用して組織のアカウントとしてサインインしてください。
 
 1. **[名前を付けて保存]** を使用してファイルのコピーを **D:\PL300\MySolution** フォルダーに保存します。
 

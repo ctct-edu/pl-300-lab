@@ -41,7 +41,7 @@ lab:
 
 1. Microsoft Edge ブラウザー ウィンドウで、Power BI サービスの **[My workspace]** に移動します。
 
-1. **[Upload] > [** の順に選択します。
+1. **[Upload] > [Browse]** の順に選択します。
 
 1. **D:\PL300\Labs\08-perform-data-analysis-in-power-bi-desktop\Starter** フォルダーに移動します。
 

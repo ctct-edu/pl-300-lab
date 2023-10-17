@@ -31,6 +31,7 @@ lab:
     ![Power BI Desktop アイコン](./image/01/01-prepare-data-with-power-query-in-power-bi-desktop_image1.png)
 
     ''注1: 既定では、Power BI Desktop の前に [はじめに] ダイアログ ボックスが開きます。サインインしてから、ポップアップを閉じることができます。''
+
     ''注2: Power BI Desktopが英語で起動している場合は、[File] > [Options and settings] > [Options]の順に選択し、Optionsウィンドウで[Regional Settings]に表示されるドロップダウンリストから"Japanese(Japan)"を選択してアプリを再起動することで日本語に変更可能です。''
 
 1. スターターPower BI Desktop ファイルを開くには、 **[ファイル] > [レポートを開く] > [レポートの参照]** の順に選択します。

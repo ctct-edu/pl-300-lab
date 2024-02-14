@@ -22,7 +22,7 @@ lab:
 
 このタスクでは、スタート レポートを開いてラボの環境を設定します。
 
-1. Power BI Desktop から、 **[ファイル]**  >  **[レポートを開く]**  >  **[レポートを参照]** の順に移動します。
+1. Power BI Desktop から、 **[ファイル] > [開く] > [このデバイスを参照]** の順に移動します。
 
 1. **D:\PL300\Labs\06-design-report-in-power-bi-desktop\Starter** フォルダーで **Sales Analysis** ファイルを開きます。
 

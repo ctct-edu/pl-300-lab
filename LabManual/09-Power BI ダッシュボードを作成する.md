@@ -45,7 +45,7 @@ lab:
 
     ![Power BI Desktop アイコン](./image/09/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
 
-1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [レポートを開く] > [レポートの参照]** の順に選択します。
+1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
 1. **[開く]** ウィンドウで、**D:\PL300\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
 

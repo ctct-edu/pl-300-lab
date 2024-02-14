@@ -29,7 +29,7 @@ lab:
 
     ''ヒント: 既定では、Power BI Desktop の前に [はじめに] ダイアログ ボックスが開きます。サインインすることでポップアップを閉じることができます。''
 
-1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [レポートを開く] > [レポートの参照]** の順に選択します。
+1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
 1. **D:\PL300\Labs\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを選択します。
 

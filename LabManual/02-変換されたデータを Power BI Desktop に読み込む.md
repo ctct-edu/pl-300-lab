@@ -29,7 +29,7 @@ lab:
 
     ![Power BI Desktop アイコン](./image/02/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
 
-1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [レポートを開く] > [レポートの参照]** の順に選択します。
+1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
 1. **[開く]** ウィンドウで、**D:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
 
@@ -48,8 +48,6 @@ lab:
 ## **Salesperson クエリを構成する**
 
 このタスクでは、Power Query エディターを使用して **Salesperson** クエリを構成します。
-
-*重要:列の名前を変更するように指示されたら、説明のとおりに名前を変更することが重要です。"*
 
 1. **[Power Query エディター]** ウィンドウを開くには、**[ホーム]** リボン タブの **[クエリ]** グループ内から、**[データの変換]** アイコンを選択します。
 

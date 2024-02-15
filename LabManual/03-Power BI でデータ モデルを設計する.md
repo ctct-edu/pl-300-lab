@@ -153,6 +153,8 @@ lab:
 
 1. 階層に 3 番目のレベルを追加するには、**[階層]** のドロップダウン リストで **[Product]** を選択します。
 
+     ※階層内のレベル変更は、各列のボックスをドラック＆ドロップで実行可能です
+
 1. 設定した階層を適用するには、**[レベルの変更を適用します]** を選択します。
 
      ![画像 343](./image/03/03-configure-data-model-in-power-bi-desktop_image26.png)
@@ -171,11 +173,11 @@ lab:
 
 1. **[プロパティ]** ウィンドウの **[フォルダーの表示]** ボックスに、「**Formatting**」と入力してエンターを押します。
 
-     ![画像 348](./image/03/03-configure-data-model-in-power-bi-desktop_image29.png)
+      ![画像 348](./image/03/03-configure-data-model-in-power-bi-desktop_image29.png)
 
 1. **[データ]** ペインで、2 つの列がフォルダー内に表示されるようになったことを確認します。
-   
-     ![画像 349](./image/03/03-configure-data-model-in-power-bi-desktop_image30.png)
+
+      ![画像 349](./image/03/03-configure-data-model-in-power-bi-desktop_image30.png)
 
 ## **Region テーブルを構成する**
 
@@ -211,7 +213,7 @@ lab:
      - City
      - Reseller
 
-1. **[Country-Region]** 、 **[State-Province]** 、および **[City]** 列の **[データ カテゴリ]** を **[国/地域]** 、 **[都道府県]** 、 **[市区町村]** にそれぞれ設定します。
+1. **[Country-Region]** 、 **[State-Province]** 、および **[City]** 列の **[データ カテゴリ]** を **[国/地域]** 、 **[州または都道府県]** 、 **[市区町村]** にそれぞれ設定します。
 
 ## **Sales テーブルを構成する**
 
@@ -329,14 +331,16 @@ lab:
 
 1. **[クイック メジャー]** ウィンドウの**減算する値**の**[+データの追加]**をクリックし、**Sales | Cost** を選択します。
 
+     最後に**追加**をクリックしてクイックメジャーをテーブルに追加します。
+
      ![画像 368](./image/03/03-configure-data-model-in-power-bi-desktop_image48.png)
 
 1. **[データ]** ペインの **Sales** テーブル内で、新しいメジャーに注目します。
-   
+
     メジャーには電卓アイコンが表示されます。
-    
+
      ![画像 370](./image/03/03-configure-data-model-in-power-bi-desktop_image50.png)
-    
+
 1. メジャーの名前を変更するには、メジャーを右クリックし、 **[名前の変更]** を選択して、名前を **Profit** に変更します。
 
     *フィールドの名前は、対象をダブルクリックするか、選択後に **F2** キーを押しても変更可能です。*
@@ -360,11 +364,11 @@ lab:
 
 1. 右側のガイドを選択してドラッグし、テーブル ビジュアルを広げます。
 
-     ![画像 376](./image/03/03-configure-data-model-in-power-bi-desktop_image56.png)
+      ![画像 376](./image/03/03-configure-data-model-in-power-bi-desktop_image56.png)
 
 1. メジャーが適切にフォーマットされた適切な結果を生成することを確認します。
 
-     ![画像 378](./image/03/03-configure-data-model-in-power-bi-desktop_image57.png)
+      ![画像 378](./image/03/03-configure-data-model-in-power-bi-desktop_image57.png)
 
 ## **多対多リレーションシップを作成する**
 

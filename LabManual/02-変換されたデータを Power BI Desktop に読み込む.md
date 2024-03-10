@@ -31,7 +31,7 @@ lab:
 
 1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
+1. **[開く]** ウィンドウで、**D:\Allfiles\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
 
 1. 情報ウィンドウが開いている場合はすべて閉じます。
 
@@ -41,7 +41,7 @@ lab:
 
     警告メッセージを無視するには、黄色の警告メッセージの右側にある **[X]** を選択します。
 
-1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\PL300\MySolution** フォルダーに保存します。
+1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\Allfiles\MySolution** フォルダーに保存します。
 
 1. 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
@@ -263,7 +263,7 @@ lab:
 1. 「**カスタム列**」ウィンドウの「**新しい列名**」ボックスで、テキストを **Cost** に置き換えます。
 
 1. 「**カスタム列の式**」ボックスに、次の式 (等号記号の後) を入力します。
-    - 式は、**D:\PL300\Labs\02-load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** ファイルからコピーできます。
+    - 式は、**D:\Allfiles\Labs\02-load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** ファイルからコピーできます。
     - この式を使用すると、**TotalProductCost** 値が欠落しているかどうかをテストできます。欠落している場合は、**OrderQuantity** 値に **StandardCost** 値を掛けて値を生成します。値が存在している（欠落していない）場合は、既存の **TotalProductCost** 値が使用されます。
 
 

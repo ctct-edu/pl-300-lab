@@ -31,11 +31,11 @@ lab:
 
 1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
-1. **D:\PL300\Labs\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを選択します。
+1. **D:\Allfiles\Labs\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを選択します。
 
 1. 情報ウィンドウが開いている場合はすべて閉じます。
 
-1. **[ファイル] > [名前を付けて保存]** に移動し、ファイルを **D:\PL300\MySolution** フォルダーに保存します。
+1. **[ファイル] > [名前を付けて保存]** に移動し、ファイルを **D:\Allfiles\MySolution** フォルダーに保存します。
 
 ## **モデル リレーションシップを作成する**
 

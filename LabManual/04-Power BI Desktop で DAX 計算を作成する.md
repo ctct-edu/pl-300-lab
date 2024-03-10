@@ -31,7 +31,7 @@ lab:
 
 1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
+1. **[開く]** ウィンドウで、**D:\Allfiles\Labs\04-create-dax-calculations-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
 
 1. 情報ウィンドウが開いている場合はすべて閉じます。
 
@@ -41,7 +41,7 @@ lab:
 
     "警告メッセージを無視するには、黄色の警告メッセージの右側にある **[X]** を選択します。"
 
-1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\PL300\MySolution** フォルダーに保存します。
+1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\Allfiles\MySolution** フォルダーに保存します。
 
 1. 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
@@ -59,7 +59,7 @@ lab:
 
 2. 数式バー (計算の作成または編集時に、リボンのすぐ下に表示されます) に、「**Salesperson =**」と入力して **Shift + Enter** キーを押し、「**'Salesperson (Performance)'**」と入力して **Enter** キーを押します。
 
-    *"利便性のために、このラボのすべての DAX 定義は、**D:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Assets\Snippets.txt** にあるスニペット ファイルからコピーできます。"*
+    *"利便性のために、このラボのすべての DAX 定義は、**D:\Allfiles\Labs\04-create-dax-calculations-in-power-bi-desktop\Assets\Snippets.txt** にあるスニペット ファイルからコピーできます。"*
 
      ![画像 4](./image/04/05-create-dax-calculations-in-power-bi-desktop_image10.png)
 
@@ -130,7 +130,7 @@ lab:
 
 このタスクでは、列をさらに追加して、さまざまな期間によるフィルター処理とグループ化を可能にします。 また、計算列を作成して、他の列の並べ替え順序の制御も行います。
 
-*"このラボのDAX 定義は、**D:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Assets\Snippets.txt** にあるスニペット ファイルからコピーできます。"*
+*"このラボのDAX 定義は、**D:\Allfiles\Labs\04-create-dax-calculations-in-power-bi-desktop\Assets\Snippets.txt** にあるスニペット ファイルからコピーできます。"*
 
 1. **[テーブル ツール]** コンテキスト リボンの **[計算]** グループ内から、**[新しい列]** を選択します。
 

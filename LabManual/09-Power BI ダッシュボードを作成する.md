@@ -47,7 +47,7 @@ lab:
 
 1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
+1. **[開く]** ウィンドウで、**D:\Allfiles\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
 
 1. 情報ウィンドウが開いている場合はすべて閉じます。
 
@@ -55,7 +55,7 @@ lab:
 
     "警告メッセージを無視するには、黄色の警告メッセージの右側にある **[X]** を選択します。"
 
-1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\PL300\MySolution** フォルダーに保存します。
+1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\Allfiles\MySolution** フォルダーに保存します。
 
 1. 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
@@ -67,7 +67,7 @@ lab:
 
 1. **[アップロード] > [参照]** の順に選択します。
 
-1. **D:\PL300\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動します。
+1. **D:\Allfiles\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
 1. **Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
 
@@ -137,7 +137,7 @@ lab:
 
 1. (右側にある) **[タイルの追加]** ペインで、 **[image(画像)]** タイルを選んでから、 **[Next]** 選択します。
 
-1. **[画像タイルの追加]** ペインの **[URL]** ボックスに、**D:\PL300\Resources\AdventureWorksLogo_DataURL.txt** ファイルにある完全な URL を入力してから、 **[適用]** を選択します。
+1. **[画像タイルの追加]** ペインの **[URL]** ボックスに、**D:\Allfiles\Resources\AdventureWorksLogo_DataURL.txt** ファイルにある完全な URL を入力してから、 **[適用]** を選択します。
    
     *その URL を使用して画像を埋め込むことも、データ URL を使用してコンテンツをインラインで埋め込むこともできます。*
 
@@ -181,7 +181,7 @@ lab:
 
 このタスクでは、PowerShell スクリプトを実行して、**AdventureWorksDW2020** データベース内のデータを更新します。
 
-1. エクスプローラーで、**D:\PL300\Setup** フォルダー内の **UpdateDatabase-2-AddSales.ps1** ファイルを右クリックし、 **[PowerShell で実行]** を選択します。
+1. エクスプローラーで、**D:\Allfiles\Setup** フォルダー内の **UpdateDatabase-2-AddSales.ps1** ファイルを右クリックし、 **[PowerShell で実行]** を選択します。
 
     ![画像 28](./image/09/09-create-power-bi-dashboard_image46.png)
 

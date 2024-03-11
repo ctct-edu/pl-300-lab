@@ -28,7 +28,7 @@ lab:
 
 1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\05-create-dax-calculations-in-power-bi-desktop-advanced\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
+1. **[開く]** ウィンドウで、**D:\Allfiles\Labs\05-create-dax-calculations-in-power-bi-desktop-advanced\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
 
 1. 情報ウィンドウが開いている場合はすべて閉じます。
 
@@ -38,7 +38,7 @@ lab:
     
     "警告メッセージを無視するには、黄色の警告メッセージの右側にある **[X]** を選択します。"
 
-1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\PL300\MySolution** フォルダーに保存します。
+1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\Allfiles\MySolution** フォルダーに保存します。
 
 ## **マトリックスの視覚エフェクトを作成する**
 
@@ -85,7 +85,7 @@ lab:
 
 1. 次の式に基づいて、**Sales** テーブルにメジャーを追加します。
 
-     *"このラボのDAX 定義は、**D:\PL300\Labs\05-create-dax-calculations-in-power-bi-desktop-advanced\Assets\Snippets.txt** ファイルからコピーできます。"*
+     *"このラボのDAX 定義は、**D:\Allfiles\Labs\05-create-dax-calculations-in-power-bi-desktop-advanced\Assets\Snippets.txt** ファイルからコピーできます。"*
 
      ```
      Sales All Region =

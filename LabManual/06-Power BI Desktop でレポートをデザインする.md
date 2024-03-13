@@ -367,7 +367,7 @@ lab:
 
       ![画像 89](./image/06/07-design-report-in-power-bi-desktop_image69.png)
 
-1. メニュー バーの右上にある **[表示]** を選択して、**[Fullscreen]** （全画面）を選択します。
+1. メニュー バーの右上にある**四角いアイコン** もしくは **[View]** （表示）をクリックして、**[Fullscreen]** （全画面）を選択します。
 
       ![画像 98](./image/06/07-design-report-in-power-bi-desktop_image70.png)
 

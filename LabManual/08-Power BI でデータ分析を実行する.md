@@ -18,21 +18,19 @@ lab:
 
 **このラボの実施には約35分かかります。**
 
-## **開始する – サインイン**
+## **開始するには**
 
-このタスクでは、Power BI にサインインして、ラボの環境を設定します。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
-*注: Power BI に既にサインインしている場合は、次のタスクに進みます。*
+     ```
+     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/08-perform-data-analysis-in-power-bi-desktop/08-perform-analysis.zip
+     ```
 
-1. Microsoft Edge を開くには、タスク バーにある Microsoft Edge プログラム ショートカットを選択します。
+     フォルダーを **C:\Users\Student\Downloads\08-perform-analysis** フォルダーに展開します。
 
-     ![画像 12](./image/08/08-design-report-in-power-bi-desktop-enhanced_image1.png)
+     1. **08-Starter-Sales Analysis.pbix** ファイルを開きます。
 
-1. Microsoft Edge ブラウザー ウィンドウで、**https://app.powerbi.com** に移動します。
-
-1. 組織の (または提供された) 資格情報を使用してサインイン プロセスを完了します。 Microsoft Edge からサインインを維持するように求められた場合は、**[はい]** を選択します。
-
-1. Microsoft Edge ブラウザー ウィンドウの Power BI サービスの **[ナビゲーション]** ペインで、**[My workspace]** を展開します。 Microsoft Edge ブラウザー ウィンドウを開いたままにします。
+     > ***注**: **[キャンセル]** を選択すると、サインインを閉じることができます。 他のすべての情報ウィンドウを閉じます。 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
 
 ## **開始する – データセットの作成**

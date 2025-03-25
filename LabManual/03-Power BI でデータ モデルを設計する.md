@@ -21,21 +21,17 @@ lab:
 
 ## **開始するには**
 
-このタスクでは、ラボの環境を設定します。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
-1. Power BI Desktop を開きます。
+    ```
+    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/03-configure-data-model-in-power-bi-desktop/03-model-data.zip
+    ```
 
-    ![Power BI Desktop アイコン](./image/03/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
+    フォルダーを **C:\Users\Student\Downloads\03-model-data** フォルダーに展開します。
 
-    ''ヒント: 既定では、Power BI Desktop の前に [はじめに] ダイアログ ボックスが開きます。サインインすることでポップアップを閉じることができます。''
+    **03-Starter-Sales Analysis.pbix** ファイルを開きます。
 
-1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
-
-1. **D:\Allfiles\Labs\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを選択します。
-
-1. 情報ウィンドウが開いている場合はすべて閉じます。
-
-1. **[ファイル] > [名前を付けて保存]** に移動し、ファイルを **D:\Allfiles\MySolution** フォルダーに保存します。
+    > ***注**: **[キャンセル]** を選択すると、サインインを閉じることができます。 他のすべての情報ウィンドウを閉じます。 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
 ## **モデル リレーションシップを作成する**
 

@@ -19,31 +19,17 @@ lab:
 
 ## **開始するには**
 
-このタスクでは、ラボの環境を設定します。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
-重要: 前のラボを完了している場合は、次のタスクに進みます。
+    ```
+    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/02-load-data-with-power-query-in-power-bi-desktop/02-load-data.zip
+    ```
 
-1. Power BI Desktop を開きます。
+    フォルダーを **C:\Users\Student\Downloads\02-load-data** フォルダーに展開します。
 
-    ヒント: 既定では、Power BI Desktop の前に [はじめに] ダイアログ ボックスが開きます。サインインしてから、ポップアップを閉じることができます。
+    **02-Starter-Sales Analysis.pbix** ファイルを開きます。
 
-    ![Power BI Desktop アイコン](./image/02/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
-
-1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
-
-1. **[開く]** ウィンドウで、**D:\Allfiles\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
-
-1. 情報ウィンドウが開いている場合はすべて閉じます。
-
-1. リボンの下の黄色の警告メッセージに注目してください。
-
-    このメッセージは、クエリが、モデル テーブルとしての読み込みに適用されていないことを警告しています。クエリは、このラボの後半で適用します。
-
-    警告メッセージを無視するには、黄色の警告メッセージの右側にある **[X]** を選択します。
-
-1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\Allfiles\MySolution** フォルダーに保存します。
-
-1. 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
+    > ***注**: **[キャンセル]** を選択すると、サインインを閉じることができます。 他のすべての情報ウィンドウを閉じます。 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
 ## **Salesperson クエリを構成する**
 

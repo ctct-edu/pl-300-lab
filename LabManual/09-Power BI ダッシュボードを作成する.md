@@ -18,46 +18,15 @@ lab:
 
 **このラボの実施には約35分かかります。**
 
-## **開始する – サインイン**
+## **開始するには**
 
-このタスクでは、Power BI にサインインして、ラボの環境を設定します。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
-*注: Power BI に既にサインインしている場合は、次のタスクに進みます。*
+     ```
+     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/09-create-power-bi-dashboard/09-create-dashboard.zip
+     ```
 
-1. Microsoft Edge を開くには、タスク バーにある Microsoft Edge プログラム ショートカットを選択します。
-
-     ![画像 12](./image/09/08-design-report-in-power-bi-desktop-enhanced_image1.png)
-
-1. Microsoft Edge ブラウザー ウィンドウで、**https://app.powerbi.com** に移動します。
-
-1. 組織の資格情報 (または提供されたもの) を使用して、サインイン プロセスを完了します。 Microsoft Edge からサインインを維持するように求められた場合は、**[はい]** を選択します。
-
-1. Microsoft Edge ブラウザー ウィンドウの Power BI サービスの **[ナビゲーション]** ペインで、**[マイ ワークスペース]** を展開します。 Microsoft Edge ブラウザー ウィンドウを開いたままにします。
-
-
-## **開始する – レポートを開く**
-
-このタスクでは、スタート レポートを開いてラボの環境を設定します。
-
-1. Power BI Desktop を開きます。
-   
-    ''既定では、Power BI Desktop の前に [はじめに] ダイアログ ボックスが開きます。サインインしてから、ポップアップを閉じます。''
-
-    ![Power BI Desktop アイコン](./image/09/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
-
-1. スターター Power BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照]** の順に選択します。
-
-1. **[開く]** ウィンドウで、**D:\Allfiles\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動し、**Sales Analysis** ファイルを開きます。
-
-1. 情報ウィンドウが開いている場合はすべて閉じます。
-
-    ”黄色の警告メッセージは、クエリが、モデル テーブルとしての読み込みに適用されていないことを警告しています。"
-
-    "警告メッセージを無視するには、黄色の警告メッセージの右側にある **[X]** を選択します。"
-
-1. ファイルのコピーを作成するには、 **[ファイル] > [名前を付けて保存]** の順に移動し、**D:\Allfiles\MySolution** フォルダーに保存します。
-
-1. 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
+     フォルダーを **C:\Users\ctct\Downloads\09-create-dashboard** フォルダーに展開します。
 
 ## **開始する – レポートの発行**
 
@@ -67,7 +36,7 @@ lab:
 
 1. **[アップロード] > [参照]** の順に選択します。
 
-1. **D:\Allfiles\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動します。
+1. **C:\Users\ctct\Downloads\09-create-dashboard** フォルダーに移動します。
 
 1. **Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
 

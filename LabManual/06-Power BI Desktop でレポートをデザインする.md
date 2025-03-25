@@ -18,15 +18,19 @@ lab:
 
 **このラボの実施には約45分かかります。**
 
-## **レポートを作成する**
+## **開始するには**
 
-このタスクでは、スタート レポートを開いてラボの環境を設定します。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
-1. Power BI Desktop から、 **[ファイル] > [開く] > [このデバイスを参照]** の順に移動します。
+   ```
+   https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/06-design-report-in-power-bi-desktop/06-design-report.zip
+   ```
 
-1. **D:\Allfiles\Labs\06-design-report-in-power-bi-desktop\Starter** フォルダーで **Sales Analysis** ファイルを開きます。
+   フォルダーを **C:\Users\Student\Downloads\06-design-report** フォルダーに展開します。
 
-1. **[ファイル]**  >  **[名前を付けて保存]** の順に移動して、ファイルのコピーを作成し、そのコピーを **D:\Allfiles\MySolution** フォルダーに保存します。
+   **06-Starter-Sales Analysis.pbix** ファイルを開きます。
+
+   > ***注**: **[キャンセル]** を選択すると、サインインを閉じることができます。 他のすべての情報ウィンドウを閉じます。 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
 ## **ページ 1 をデザインする**
 

@@ -19,29 +19,19 @@ Power BI Desktopを使用して、データに接続する方法、データプ�
 
 ## **Power BI Desktop の概要**
 
-このタスクでは、スターターPower BI(.pbix)ファイルを開くことから始めます。スターターファイルにはデータが含まれませんが、ラボの実施に合わせて構成されています。 スターターファイルでは、次のレポートレベルの設定が無効になっています。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
-- データの読み込み > 最初の読み込みでデータソースからリレーションシップをインポートする
-- データの読み込み > データが読み込まれた後に新しいリレーションシップを自動検出する
+    ```
+    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/01-prepare-data-with-power-query-in-power-bi-desktop/01-prepare-data.zip
+    ```
 
-"注: この 2 つのオプションを有効にするとデータ モデルを開発するときに役立ちますが、ラボの進行上無効となっています。「**Power BI Desktop でデータを読み込む**」ラボでリレーションシップを作成するときに、それぞれを追加する理由について説明します。"
+    フォルダーを **C:\Users\ctct\Downloads\01-prepare-data** フォルダーに展開します。
 
-1. Power BI Desktop を開きます。
+    **01-Starter-Sales Analysis.pbix** ファイルを開きます。
 
-    ![Power BI Desktop アイコン](./image/01/01-prepare-data-with-power-query-in-power-bi-desktop_image1.png)
-
-    ''注1: 既定では、Power BI Desktop の前に [はじめに] ダイアログ ボックスが開きます。[はじめに]をクリックしてサインインして、ポップアップを閉じることができます。''
-
-    ''注2: Power BI Desktopが英語で起動している場合は、[File] > [Options and settings] > [Options]の順に選択し、Optionsウィンドウで[GLOBAL]-[Regional Settings]に表示されるApplication languageとModel languageのドロップダウンリストからそれぞれ"Japanese(Japan)"を選択してアプリを再起動することで日本語に変更可能です。''
-
-1. スターターPower BI Desktop ファイルを開くには、 **[ファイル] > [開く] > [このデバイスを参照する]** の順に選択します。
-
-1. **[開く]** ウィンドウで、**D:\Allfiles\Labs\01-prepare-data-with-power-query-in-power-bi-desktop\Starter** フォルダーに移動します。
-
-1. **Sales Analysis** ファイルを選択します。
-    ※ファイルを開く際にメールアドレスが求められた場合は、ラボ画面右側の"リソース"タブに記載の"Administrative Username"および"Administrative Password"を使用して組織のアカウントとしてサインインしてください。
-
-1. **[名前を付けて保存]** を使用してファイルのコピーを **D:\PL300\MySolution** フォルダーに保存します。
+    - このスターター ファイルは、ラボを完了できるように特別に構成されています。 スターター ファイルでは、次のレポートレベルの設定が無効になっています。
+      - データの読み込み > 最初の読み込みでデータ ソースからリレーションシップをインポートする
+      - データの読み込み > データが読み込まれた後に新しいリレーションシップを自動検出する
 
 ## **SQL Server からデータを取得する**
 

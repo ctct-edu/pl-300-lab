@@ -46,7 +46,7 @@ lab:
 
     ![画像 1](./image/06/07-design-report-in-power-bi-desktop_image15.png)
 
-1. **[開く]** ウィンドウで、**D:\Allfiles\Resources** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**C:\Users\Student\Downloads\06-design-report** フォルダーに移動します。
 
 1. **AdventureWorksLogo.jpg** ファイルを選択し、**[開く]** を選択します。
 

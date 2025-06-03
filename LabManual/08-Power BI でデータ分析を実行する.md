@@ -41,7 +41,7 @@ lab:
 
 1. **[Upload] > [Browse]** の順に選択します。
 
-1. **D:\Allfiles\Labs\08-perform-data-analysis-in-power-bi-desktop\Starter** フォルダーに移動します。
+1. **C:\Users\Student\Downloads\08-perform-analysis** フォルダーに移動します。
 
 1. **Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
 
@@ -61,7 +61,7 @@ lab:
 
 1. **[データ ハブ]** ウィンドウの **[マイ ワークスペース]** で **Sales Analysis** データセットを選んでから、 **[接続]** を選択するか、ダブルクリックしてデータセットを読み込みます。
 
-1. **[ファイル] > [保存]** の順に移動し、ファイルに **Sales Exploration** という名前を付けて **D:\Allfiles\MySolution** フォルダーに保存します。
+1. **[ファイル] > [保存]** の順に移動し、ファイルに **Sales Exploration** という名前を付けて **C:\Users\ctct\Documents** フォルダーに保存します。
 
 *次に、2 つのレポート ページを作成し、各ページで異なるビジュアルを操作して、データの分析および調査を行います。*
 

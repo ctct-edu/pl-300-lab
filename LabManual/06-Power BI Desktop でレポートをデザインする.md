@@ -308,7 +308,7 @@ lab:
 
 このタスクでは、Power BI に発行されたレポートを確認します。
 
-1. Microsoft Edge ブラウザーを開いてから、 **https://app.powerbi.com** でサインインします（仮想マシン上のEdgeではブックマークされています）。
+1. Microsoft Edge ブラウザーを開いてから、 **https://app.powerbi.com** でサインインします。
 
 1. Microsoft Edge ブラウザー ウィンドウの Power BI サービスで画面左側の **[ナビゲーション]** ウィンドウから、**[My workspace]** を展開します。
 

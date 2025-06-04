@@ -152,7 +152,7 @@ lab:
 
 このタスクでは、PowerShell スクリプトを実行して、**AdventureWorksDW2020** データベース内のデータを更新します。
 
-1. エクスプローラーで、**D:\Allfiles\Setup** フォルダー内の **UpdateDatabase-2-AddSales.ps1** ファイルを右クリックし、 **[PowerShell で実行]** を選択します。
+1. エクスプローラーで、展開したZipフォルダの **UpdateDatabase-2-AddSales.ps1** ファイルを右クリックし、 **[PowerShell で実行]** を選択します。
 
     ![画像 28](./image/09/09-create-power-bi-dashboard_image46.png)
 

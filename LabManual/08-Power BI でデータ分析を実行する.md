@@ -55,6 +55,14 @@ lab:
 
 1. Power BI Desktop を新規に開きます。
 
+    > 既にPower BI Desktopのウィンドウを開いている場合は、以下の方法で新規のウィンドウを起動可能です。
+    >
+    > ・デスクトップに配置されているショートカットをダブルクリック
+    >
+    > ・タスクバーのアイコンを右クリックしてPower BI Desktopをクリック
+    >
+    > ・Power BIDesktopのリボンメニューのファイルを選択して「空のレポート」をクリック
+
     ![Power BI Desktop アイコン](./image/08/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
 
 1. [ホーム] リボンで、 **[データの取得] > [Power BI セマンティックモデル]** の順に選択します。

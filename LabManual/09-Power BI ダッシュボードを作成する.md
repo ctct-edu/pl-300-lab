@@ -36,7 +36,7 @@ lab:
 
 1. **[インポート] > [レポート～] > [コンピューターから]** の順に選択します。
 
-1. **C:\Users\Student\Downloads\08-perform-analysis** フォルダーに移動します。
+1. **C:\Users\Student\Downloads\**09-create-dashboard** フォルダーに移動します。
 
 1. **09-Starter-Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
 

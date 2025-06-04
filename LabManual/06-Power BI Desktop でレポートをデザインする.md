@@ -26,7 +26,7 @@ lab:
    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/06-design-report-in-power-bi-desktop/06-design-report.zip
    ```
 
-   フォルダーを **C:\Users\Student\Downloads\06-design-report** フォルダーに展開します。
+   フォルダーを **C:\Users\ctct\Downloads\06-design-report** フォルダーに展開します。
 
    **06-Starter-Sales Analysis.pbix** ファイルを開きます。
 
@@ -46,7 +46,7 @@ lab:
 
     ![画像 1](./image/06/07-design-report-in-power-bi-desktop_image15.png)
 
-1. **[開く]** ウィンドウで、**C:\Users\Student\Downloads\06-design-report** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**C:\Users\ctct\Downloads\06-design-report** フォルダーに移動します。
 
 1. **AdventureWorksLogo.jpg** ファイルを選択し、**[開く]** を選択します。
 

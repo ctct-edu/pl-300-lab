@@ -25,7 +25,7 @@ lab:
     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/02-load-data-with-power-query-in-power-bi-desktop/02-load-data.zip
     ```
 
-    フォルダーを **C:\Users\Student\Downloads\02-load-data** フォルダーに展開します。
+    フォルダーを **C:\Users\ctct\Downloads\02-load-data** フォルダーに展開します。
 
     **02-Starter-Sales Analysis.pbix** ファイルを開きます。
 
@@ -249,7 +249,7 @@ lab:
 1. 「**カスタム列**」ウィンドウの「**新しい列名**」ボックスで、テキストを **Cost** に置き換えます。
 
 1. 「**カスタム列の式**」ボックスに、次の式 (等号記号の後) を入力します。
-    - 式は、**C:\Users\Student\Downloads\02-load-data\02-Snippets.txt** ファイルからコピーできます。
+    - 式は、**C:\Users\ctct\Downloads\02-load-data\02-Snippets.txt** ファイルからコピーできます。
     - この式を使用すると、**TotalProductCost** 値が欠落しているかどうかをテストできます。欠落している場合は、**OrderQuantity** 値に **StandardCost** 値を掛けて値を生成します。値が存在している（欠落していない）場合は、既存の **TotalProductCost** 値が使用されます。
 
 

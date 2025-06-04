@@ -28,7 +28,7 @@ lab:
      https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/07-design-report-in-power-bi-desktop-enhanced/07-enhanced-report.zip
      ```
 
-     フォルダーを **C:\Users\Student\Downloads\07-enhanced-report** フォルダーに展開します。
+     フォルダーを **C:\Users\ctct\Downloads\07-enhanced-report** フォルダーに展開します。
 
      **07-Starter-Sales Analysis.pbix** ファイルを開きます。
 

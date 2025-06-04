@@ -27,7 +27,7 @@ lab:
     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/03-configure-data-model-in-power-bi-desktop/03-model-data.zip
     ```
 
-    フォルダーを **C:\Users\Student\Downloads\03-model-data** フォルダーに展開します。
+    フォルダーを **C:\Users\ctct\Downloads\03-model-data** フォルダーに展開します。
 
     **03-Starter-Sales Analysis.pbix** ファイルを開きます。
 

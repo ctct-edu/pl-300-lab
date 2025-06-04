@@ -26,7 +26,7 @@ lab:
     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/05-create-dax-calculations-in-power-bi-desktop-advanced/05-advanced-dax.zip
     ```
 
-    フォルダーを **C:\Users\Student\Downloads\05-advanced-dax** フォルダーに展開します。
+    フォルダーを **C:\Users\ctct\Downloads\05-advanced-dax** フォルダーに展開します。
 
     **05-Starter-Sales Analysis.pbix** ファイルを開きます。
 
@@ -73,7 +73,7 @@ lab:
 
 1. 次の式に基づいて、**Sales** テーブルにメジャーを追加します。
 
-     *"このラボのDAX 定義は、**C:\Users\Student\Downloads\05-advanced-dax\05-Snippets.txt** ファイルからコピーできます。"*
+     *"このラボのDAX 定義は、**C:\Users\ctct\Downloads\05-advanced-dax\05-Snippets.txt** ファイルからコピーできます。"*
 
      ```
      Sales All Region =

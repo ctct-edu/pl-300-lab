@@ -22,7 +22,7 @@ Power BI Desktopを使用して、データに接続する方法、データプ�
 1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
     ```
-    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/01-prepare-data-with-power-query-in-power-bi-desktop/01-prepare-data.zip
+    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/01-get-data-in-power-bi/01-get-data.zip
     ```
 
     フォルダーを **C:\Users\ctct\Downloads\01-prepare-data** フォルダーに展開します。

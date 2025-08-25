@@ -24,10 +24,10 @@ lab:
 1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
     ```
-    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/04-create-dax-calculations-in-power-bi-desktop\04-intro-dax.zip
+    https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/04-create-dax-calculations\04-dax-calculations.zip
     ```
 
-    フォルダーを **C:\Users\ctct\Downloads\04-intro-dax** フォルダーに展開します。
+    フォルダーを **C:\Users\ctct\Downloads\04-dax-calculations** フォルダーに展開します。
 
     **04-Starter-Sales Analysis.pbix** ファイルを開きます。
 
@@ -47,7 +47,7 @@ lab:
 
 2. 数式バー (計算の作成または編集時に、リボンのすぐ下に表示されます) に、「**Salesperson =**」と入力して **Shift + Enter** キーを押し、「**'Salesperson (Performance)'**」と入力して **Enter** キーを押します。
 
-    *"利便性のために、このラボのすべての DAX 定義は、**C:\Users\ctct\Downloads\04-intro-dax\04-Snippets.txt** にあるスニペット ファイルからコピーできます。"*
+    *"利便性のために、このラボのすべての DAX 定義は、**C:\Users\ctct\Downloads\04-dax-calculations\04-Snippets.txt** にあるスニペット ファイルからコピーできます。"*
 
      ![画像 4](./image/04/05-create-dax-calculations-in-power-bi-desktop_image10.png)
 
@@ -118,7 +118,7 @@ lab:
 
 このタスクでは、列をさらに追加して、さまざまな期間によるフィルター処理とグループ化を可能にします。 また、計算列を作成して、他の列の並べ替え順序の制御も行います。
 
-*"このラボのDAX 定義は、**C:\Users\ctct\Downloads\04-intro-dax\04-Snippets.txt** にあるスニペット ファイルからコピーできます。"*
+*"このラボのDAX 定義は、**C:\Users\ctct\Downloads\04-dax-calculations\04-Snippets.txt** にあるスニペット ファイルからコピーできます。"*
 
 1. **[テーブル ツール]** コンテキスト リボンの **[計算]** グループ内から、**[新しい列]** を選択します。
 

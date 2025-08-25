@@ -23,10 +23,10 @@ lab:
 1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
    ```
-   https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/06-design-report-in-power-bi-desktop/06-design-report.zip
+   https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/08-design-power-bi-reports/08-design-report.zip
    ```
 
-   フォルダーを **C:\Users\ctct\Downloads\06-design-report** フォルダーに展開します。
+   フォルダーを **C:\Users\ctct\Downloads\08-design-report** フォルダーに展開します。
 
    **06-Starter-Sales Analysis.pbix** ファイルを開きます。
 

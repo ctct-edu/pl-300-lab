@@ -23,12 +23,12 @@ lab:
 1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
      ```
-     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/08-perform-data-analysis-in-power-bi-desktop/08-perform-analysis.zip
+     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/10-perform-analytics-power-bi/10-perform-analytics.zip
      ```
 
-     フォルダーを **C:\Users\Student\Downloads\08-perform-analysis** フォルダーに展開します。
+     フォルダーを **C:\Users\Student\Downloads\10-perform-analytics** フォルダーに展開します。
 
-     1. **08-Starter-Sales Analysis.pbix** ファイルを開きます。
+     1. **10-Starter-Sales Analysis.pbix** ファイルを開きます。
 
      > ***注**: **[キャンセル]** を選択すると、サインインを閉じることができます。 他のすべての情報ウィンドウを閉じます。 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 

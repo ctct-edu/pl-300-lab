@@ -25,12 +25,12 @@ lab:
 1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
      ```
-     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/07-design-report-in-power-bi-desktop-enhanced/07-enhanced-report.zip
+     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/09-enhance-power-bi-reports/09-enhanced-report.zip
      ```
 
-     フォルダーを **C:\Users\ctct\Downloads\07-enhanced-report** フォルダーに展開します。
+     フォルダーを **C:\Users\ctct\Downloads\09-enhanced-report** フォルダーに展開します。
 
-     **07-Starter-Sales Analysis.pbix** ファイルを開きます。
+     **09-Starter-Sales Analysis.pbix** ファイルを開きます。
 
      > ***注**: **[キャンセル]** を選択すると、サインインを閉じることができます。 他のすべての情報ウィンドウを閉じます。 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 

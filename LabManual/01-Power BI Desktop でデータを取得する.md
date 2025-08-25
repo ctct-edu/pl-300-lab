@@ -19,7 +19,7 @@ Power BI Desktopを使用して、データに接続する方法、データプ�
 
 ## **Power BI Desktop の概要**
 
-1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロード、展開します。
 
     ```
     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/01-get-data-in-power-bi/01-get-data.zip
@@ -146,7 +146,7 @@ Power BI Desktopを使用して、データに接続する方法、データプ�
 
 1. 新しいクエリを追加するには、**[Power Query エディター]** ウィンドウの **[ホーム]** リボン タブで、**[新しいクエリ]** グループ内から、**[新しいソース]** 下矢印を選択し、**[テキスト/CSV]** を選択します。
 
-1. **「開く」** ウィンドウで、**C:\Users\ctct\Downloads\01-prepare-data** フォルダーに移動し、**ResellerSalesTargets.csv** ファイルを選択します。 **[Open (開く)]** を選択します。
+1. **「開く」** ウィンドウで、**C:\Users\ctct\Downloads\01-get-data** フォルダーに移動し、**ResellerSalesTargets.csv** ファイルを選択します。 **[Open (開く)]** を選択します。
 
 1. **ResellerSalesTargets.csv** ウィンドウで、プレビュー データを確認します。 **[OK]** を選択します。
 
@@ -160,7 +160,7 @@ Power BI Desktopを使用して、データに接続する方法、データプ�
 
      ![画像 74](./image/01/01-prepare-data-with-power-query-in-power-bi-desktop_image38.png)
 
-1. **C:\Users\ctct\Downloads\01-prepare-data\ColorFormats.csv** ファイルを使用して先ほどと同様にクエリを作成します。
+1. **C:\Users\ctct\Downloads\01-get-data\ColorFormats.csv** ファイルを使用して先ほどと同様にクエリを作成します。
 
     "**ColorFormats** CSV ファイルには、製品の色ごとに 1 行が含まれています。各行には、背景色とフォントの色を書式設定する HEX コードが記録されます。"
 

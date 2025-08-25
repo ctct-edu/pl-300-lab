@@ -23,10 +23,10 @@ lab:
 1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
 
      ```
-     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/09-create-power-bi-dashboard/09-create-dashboard.zip
+     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/12-create-power-bi-dashboard/12-create-dashboard.zip
      ```
 
-     フォルダーを **C:\Users\ctct\Downloads\09-create-dashboard** フォルダーに展開します。
+     フォルダーを **C:\Users\ctct\Downloads\12-create-dashboard** フォルダーに展開します。
 
 ## **開始する – レポートの発行**
 
@@ -36,9 +36,9 @@ lab:
 
 1. **[インポート] > [レポート～] > [コンピューターから]** の順に選択します。
 
-1. **C:\Users\ctct\Downloads\09-create-dashboard** フォルダーに移動します。
+1. **C:\Users\ctct\Downloads\12-create-dashboard** フォルダーに移動します。
 
-1. **09-Starter-Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
+1. **12-Starter-Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
 
    ''セマンティックモデルの置換を求めるメッセージが表示されたら、 **[置換]** を選択します。''
 

@@ -19,13 +19,13 @@ lab:
 
 ## **開始するには**
 
-1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロードします。
+1. この演習を完了するには、まず Web ブラウザーを開き、次の URL を入力して zip フォルダーをダウンロード、展開します。
 
     ```
     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/02-transform-data-power-bi/02-transform-data.zip
     ```
 
-    フォルダーを **C:\Users\ctct\Downloads\02-load-data** フォルダーに展開します。
+    フォルダーを **C:\Users\ctct\Downloads\02-transform-data** フォルダーに展開します。
 
     **02-Starter-Sales Analysis.pbix** ファイルを開きます。
 

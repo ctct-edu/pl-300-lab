@@ -25,7 +25,7 @@ Power BI Desktopを使用して、データに接続する方法、データプ�
     https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/01-get-data-in-power-bi/01-get-data.zip
     ```
 
-    フォルダーを **C:\Users\ctct\Downloads\01-prepare-data** フォルダーに展開します。
+    フォルダーを **C:\Users\ctct\Downloads\01-get-data** フォルダーに展開します。
 
     **01-Starter-Sales Analysis.pbix** ファイルを開きます。
 

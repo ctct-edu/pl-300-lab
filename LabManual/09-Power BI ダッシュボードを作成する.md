@@ -108,7 +108,7 @@ lab:
 
 1. (右側にある) **[タイルの追加]** ペインで、 **[image(画像)]** タイルを選んでから、 **[Next]** 選択します。
 
-1. **[画像タイルの追加]** ペインの **[URL]** ボックスに、**C:\Users\ctct\Downloads\-12create-dashboard\AdventureWorksLogo_DataURL.txt** ファイルにある完全な URL を入力してから、 **[適用]** を選択します。
+1. **[画像タイルの追加]** ペインの **[URL]** ボックスに、**C:\Users\ctct\Downloads\12-create-dashboard\AdventureWorksLogo_DataURL.txt** ファイルにある完全な URL を入力してから、 **[適用]** を選択します。
    
     *その URL を使用して画像を埋め込むことも、データ URL を使用してコンテンツをインラインで埋め込むこともできます。*
 

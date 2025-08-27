@@ -41,9 +41,9 @@ lab:
 
 1. **[インポート] > [レポート～] > [コンピューターから]** の順に選択します。
 
-1. **C:\Users\ctctt\Downloads\08-perform-analysis** フォルダーに移動します。
+1. **C:\Users\ctctt\Downloads\10-perform-analysis** フォルダーに移動します。
 
-1. **08-Starter-Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
+1. **10-Starter-Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
 
     ''セマンティックモデルの置換を求めるメッセージが表示されたら、 **[置換]** を選択します。''
 

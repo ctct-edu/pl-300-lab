@@ -152,7 +152,7 @@ lab:
 
 このタスクでは、PowerShell スクリプトを実行して、**AdventureWorksDW2020** データベース内のデータを更新します。
 
-1. エクスプローラーで、展開したZipフォルダの **UpdateDatabase-2.sql** を右クリック→プログラムから開く→メモ帳で開き、以下の内容を変更します。
+1. エクスプローラーで、展開したZipフォルダ内にある **UpdateDatabase-2.sql** を右クリック→プログラムから開く→メモ帳で開き、以下の内容を変更します。
 
     変更前：**C:\Users\Student\Downloads\12-create-dashboard\ResellerSales_202006.csv**
 

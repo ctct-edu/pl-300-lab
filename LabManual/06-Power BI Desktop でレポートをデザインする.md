@@ -28,7 +28,7 @@ lab:
 
    フォルダーを **C:\Users\ctct\Downloads\08-design-report** フォルダーに展開します。
 
-   **06-Starter-Sales Analysis.pbix** ファイルを開きます。
+   **08-Starter-Sales Analysis.pbix** ファイルを開きます。
 
    > ***注**: **[キャンセル]** を選択すると、サインインを閉じることができます。 他のすべての情報ウィンドウを閉じます。 変更の適用を求めるメッセージが表示されたら、**[後で適用]** を選択します。
 
@@ -46,7 +46,7 @@ lab:
 
     ![画像 1](./image/06/07-design-report-in-power-bi-desktop_image15.png)
 
-1. **[開く]** ウィンドウで、**C:\Users\ctct\Downloads\06-design-report** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**C:\Users\ctct\Downloads\08-design-report** フォルダーに移動します。
 
 1. **AdventureWorksLogo.jpg** ファイルを選択し、**[開く]** を選択します。
 

@@ -26,7 +26,7 @@ lab:
      https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/10-perform-analytics-power-bi/10-perform-analytics.zip
      ```
 
-     フォルダーを **C:\Users\Student\Downloads\10-perform-analytics** フォルダーに展開します。
+     フォルダーを **C:\Users\ctct\Downloads\10-perform-analytics** フォルダーに展開します。
 
      1. **10-Starter-Sales Analysis.pbix** ファイルを開きます。
 
@@ -41,7 +41,7 @@ lab:
 
 1. **[インポート] > [レポート～] > [コンピューターから]** の順に選択します。
 
-1. **C:\Users\ctctt\Downloads\10-perform-analysis** フォルダーに移動します。
+1. **C:\Users\ctct\Downloads\10-perform-analysis** フォルダーに移動します。
 
 1. **10-Starter-Sales Analysis.pbix** ファイルを選択し、**[開く]** を選択します。
 
